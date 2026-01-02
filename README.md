@@ -1,4 +1,4 @@
-# Stellar Blade Save Patcher
+# Raven: a Stellar Blade Save Patcher
 Script to modify Stellar Blade save files without manual hex editing.
 
 This Script assumes you have the game installed.
