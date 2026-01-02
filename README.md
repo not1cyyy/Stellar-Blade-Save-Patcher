@@ -5,17 +5,17 @@ This Script assumes you have the game installed.
 # 🛠️ Build Instructions
 Using g++: 
 ```
-g++ src/*.cpp -I include -std=c++17 -o SavePatcher
+g++ src/*.cpp -I include -std=c++17 -o raven
 ```
 Using MinGW on Windows: 
 ```
-g++ src/*.cpp -I include -std=gnu++17 -o SavePatcher.exe
+g++ src/*.cpp -I include -std=gnu++17 -o raven.exe
 ```
 # 🚀 Usage 
 Place the save file you want to modify in the same folder as the executable.
 Then run: 
 ```
-./SavePatcher
+./raven.exe
 ```
 The output should be a file named `StellarBladeSave00.sav`
 # ⚠️ Disclaimer
